@@ -64,7 +64,7 @@ If the extension works on the test page but not on a specific website, the issue
 ---
 
 ## Author
-Your Name  
+Lav Kumar Gahe
 Frontend Developer
 
 ---
